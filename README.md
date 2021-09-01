@@ -1,3 +1,2 @@
 This my portfolio :)
-https://myyepz.github.io/
-
+https://myyepz.github.io/yepzpy/
